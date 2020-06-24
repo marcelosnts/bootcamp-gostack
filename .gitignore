@@ -2,6 +2,8 @@ Nivel_1/backend/node_modules
 Nivel_1/frontend/node_modules
 Nivel_1/mobile/node_modules
 Nivel_1/typescript/node_modules
+Nivel_2/.vscode
+Nivel_2/backend/node_modules
 node_modules
 /package.json
 /yarn.lock

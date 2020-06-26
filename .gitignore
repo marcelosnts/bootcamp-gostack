@@ -4,6 +4,8 @@ Nivel_1/mobile/node_modules
 Nivel_1/typescript/node_modules
 Nivel_2/.vscode
 Nivel_2/backend/node_modules
+Nivel_2/iniciando-back-end/tmp/*
+!Nivel_2/iniciando-back-end/tmp/.gitkeep
 node_modules
 /package.json
 /yarn.lock

@@ -42,8 +42,4 @@ class FakeUsersRepository implements IUsersRepository {
     }
 }
 
-<<<<<<< Updated upstream
-export default UsersRepository;
-=======
 export default FakeUsersRepository;
->>>>>>> Stashed changes

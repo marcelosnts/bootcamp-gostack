@@ -6,6 +6,8 @@ Nivel_2/.vscode
 Nivel_2/backend/node_modules
 Nivel_2/iniciando-back-end/tmp/*
 !Nivel_2/iniciando-back-end/tmp/.gitkeep
+Nivel_4/iniciando-back-end/.env
+Nivel_4/iniciando-back-end/ormconfig.json
 node_modules
 /package.json
 /yarn.lock

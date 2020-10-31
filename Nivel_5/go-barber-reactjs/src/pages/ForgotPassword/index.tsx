@@ -6,7 +6,7 @@ import { FormHandles } from '@unform/core';
 
 import * as Yup from 'yup';
 
-import { FiLogIn, FiMail, FiLock } from 'react-icons/fi';
+import { FiLogIn, FiMail } from 'react-icons/fi';
 
 import { useToast } from '../../hooks/toast';
 

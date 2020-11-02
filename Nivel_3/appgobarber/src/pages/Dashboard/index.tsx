@@ -38,8 +38,8 @@ const Dashboard: React.FC = () => {
   const [providers, setProviders] = useState<Provider[]>([]);
 
   const navigateToProfile = useCallback(() => {
-    // navigate('Profile');
-    signOut();
+    navigate('Profile');
+    // signOut();
   }, [navigate]);
 
   const navigateToCreateAppointment = useCallback(
